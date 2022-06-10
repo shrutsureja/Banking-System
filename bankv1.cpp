@@ -2,7 +2,6 @@
 #include<iostream>
 #include<fstream>
 #include<sstream>
-#define printline for(int i=0;i<50;i++) cout <<"-"; cout << endl;
 using namespace std;
 
 int check_dig(string s, int size)
