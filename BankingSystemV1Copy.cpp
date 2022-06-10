@@ -5,7 +5,7 @@
 #define printline for(int i=0;i<50;i++) cout <<"-"; cout << endl;
 using namespace std;
 
-int check_dig(string s, int size)
+int check_dig(string s)
 {
     int check=0;
     for(int i=0; i<size; i++)
